@@ -1,5 +1,3 @@
-﻿using System.Diagnostics.Tracing;
-
 namespace evaluacion
 {
     internal class Program
@@ -53,3 +51,4 @@ Console.WriteLine($"Máxima: {max:F2} °C");
 Console.WriteLine($"Mínima: {min:F2} °C");
 Console.WriteLine($"Promedio: {prom:F2} °C");
         }
+
